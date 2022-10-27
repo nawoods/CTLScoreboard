@@ -75,9 +75,9 @@ class StandingsPage extends Component {
             />
           </div>
 
-          <div className="Beg-for-money-card">
+          {/* <div className="Beg-for-money-card">
             <BegForMoney />
-          </div>
+          </div> */}
 
           <div className="Match-history-card">
             <MatchHistory
